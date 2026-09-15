@@ -533,7 +533,7 @@ Ce projet met en œuvre plusieurs compétences essentielles en **Data Analysis**
 
 # 📚 Source des données
 
-Données fournies FORCE-N.
+Données fournies par FORCE-N.
 
 Dataset utilisé :
 
